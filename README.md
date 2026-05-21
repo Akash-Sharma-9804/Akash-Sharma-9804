@@ -27,26 +27,9 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```javascript
-const akash = {
-  name:       "Akash Sharma",
-  location:   "Kolkata, India 🇮🇳",
-  role:       "Full-Stack Developer",
-  company:    "QuantumHash Corporation",
-  experience: "1+ year (production)",
-  
-  currentlyBuilding: [
-    "AI-powered conversational platforms",
-    "Scalable RESTful backend systems",
-    "Semantic search with vector embeddings"
-  ],
-  
-  funFact: "I reduced API response time from 800ms to 450ms ⚡",
-  
-  contact:  "akashsharma9804@gmail.com",
-  phone:    "+91-6291723554"
-};
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=400&pause=2800&color=39D353&background=0D1117&multiline=true&width=620&height=310&lines=const+akash+%3D+%7B;++name%3A++++++%22Akash+Sharma%22%2C;++location%3A++%22Kolkata%2C+India+%F0%9F%87%AE%F0%9F%87%B3%22%2C;++role%3A+++++++%22Full-Stack+Developer%22%2C;++company%3A++++%22QuantumHash+Corporation%22%2C;++experience%3A+%221%2B+year+(production)%22%2C;++building%3A+++%5B%22AI+platforms%22%2C+%22REST+APIs%22%2C+%22Vector+Search%22%5D%2C;++funFact%3A+++%22800ms+API+reduced+to+450ms+%E2%9A%A1%22%2C;++contact%3A+++%22akashsharma9804%40gmail.com%22%2C;%7D%3B" alt="Typing terminal" />
+</div>
 
 ---
 
