@@ -357,7 +357,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Akash-Sharma-9804/Akash-Sharma-9804/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
