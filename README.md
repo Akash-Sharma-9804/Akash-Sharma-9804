@@ -28,62 +28,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 <div align="center">
-
-<!-- Mac Terminal -->
-<table style="border-radius:12px; overflow:hidden; border: none;" cellpadding="0" cellspacing="0">
-<tr>
-<td style="background:#1e1e1e; border-radius:12px; padding:0; border:none;">
-
-<!-- Title bar -->
-<div style="background:#2d2d2d; padding:10px 16px; border-radius:12px 12px 0 0; display:flex; align-items:center; gap:8px;">
-  <span style="width:12px;height:12px;border-radius:50%;background:#ff5f57;display:inline-block;"></span>
-  <span style="width:12px;height:12px;border-radius:50%;background:#ffbd2e;display:inline-block;"></span>
-  <span style="width:12px;height:12px;border-radius:50%;background:#28c840;display:inline-block;"></span>
-  &nbsp;&nbsp;<span style="color:#aaa;font-size:13px;font-family:monospace;">akash@portfolio ~ </span>
-</div>
-
-```bash
-┌─────────────────────────────────────────────────────────────┐
-│  🍎  akash@portfolio ~ — zsh                                │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  $ whoami                                                   │
-│  > Akash Sharma — Full Stack Developer & AI Specialist      │
-│                                                             │
-│  $ cat info.json                                            │
-│  {                                                          │
-│    "location"    : "West Bengal, India 🇮🇳",               │
-│    "role"        : "Full Stack Developer",                  │
-│    "company"     : "QuantumHash Corporation",               │
-│    "email"       : "akashsharma9804@gmail.com",             │
-│    "portfolio"   : "akash-sharma-9804.github.io"            │
-│  }                                                          │
-│                                                             │
-│  $ cat expertise.txt                                        │
-│  ▸ Full Stack Web Development (MERN)                        │
-│  ▸ AI & LLM Integration                                     │
-│  ▸ Vector Databases & Semantic Search                       │
-│  ▸ Real-time & Scalable Architecture                        │
-│  ▸ RESTful API Design                                       │
-│                                                             │
-│  $ cat impact.log                                           │
-│  ✅  50+     REST API endpoints built                       │
-│  ✅  40+     Reusable React components                      │
-│  ✅  10,000+ AI-driven requests handled                     │
-│  ✅  1,000+  Users across production apps                   │
-│  ✅  90+     Lighthouse score achieved                      │
-│                                                             │
-│  $ cat fun_fact.txt                                         │
-│  "I optimize APIs before I optimize my sleep schedule" 😄   │
-│                                                             │
-│  $ _                                                        │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
+  <img src="./terminal.svg" alt="About Me Terminal" width="680"/>
 </div>
 
 ---
@@ -337,14 +282,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Sharma-9804&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
