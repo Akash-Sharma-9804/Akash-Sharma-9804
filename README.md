@@ -27,9 +27,50 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<div align="center">
-  <img src="./terminal.svg" alt="About Me Terminal" width="680"/>
-</div>
+```typescript
+const akash: Developer = {
+  name          : "Akash Sharma",
+  location      : "West Bengal, India",
+  email         : "akashsharma9804@gmail.com",
+  portfolio     : "https://akash-sharma-9804.github.io",
+
+  currentRole   : "Full Stack Developer & AI Integration Specialist",
+
+  expertise     : [
+    "Full Stack Web Development (MERN)",
+    "AI & LLM Integration",
+    "Vector Databases & Semantic Search",
+    "Real-time Systems & Scalable Architecture",
+    "RESTful API Design",
+  ],
+
+  techStack     : {
+    frontend  : ["React.js", "JavaScript ES6+", "HTML5", "CSS3", "Tailwind CSS"],
+    backend   : ["Node.js", "Express.js", "REST API"],
+    databases : ["MySQL", "MongoDB", "Vector DB"],
+    ai        : ["LLM APIs", "Deepgram STT/TTS", "Vector Embeddings", "RAG Pipelines"],
+    tools     : ["Git", "GitHub", "PM2", "VPS", "Postman"],
+  },
+
+  currentlyExploring : [
+    "RAG Pipelines",
+    "Pinecone / Weaviate / pgvector",
+    "AWS & Docker",
+    "Microservices Architecture",
+    "JWT / OAuth2 / RBAC",
+  ],
+
+  impact        : {
+    apiEndpointsBuilt   : "50+",
+    reactComponents     : "40+",
+    aiRequestsHandled   : "10,000+",
+    productionUsers     : "1,000+",
+    lighthouseScore     : "90+",
+  },
+
+  funFact : "I optimize APIs before I optimize my sleep schedule",
+};
+```
 
 ---
 
@@ -70,6 +111,44 @@
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS_Deployment-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Experience Timeline
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                        EXPERIENCE JOURNEY                           │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  🟣 Present ──────────────────────────────────────────────────────  │
+│  │   Full Stack Developer @ QuantumHash Corporation                │
+│  │   ▸ Built QhashAI — AI conversational platform (5,000+ queries) │
+│  │   ▸ Built OfficeMoM — AI meeting automation (90% accuracy)      │
+│  │   ▸ Built ASES — AI assessment system (scalable, LLM-powered)   │
+│  │   ▸ Built QuantumEdu — AI e-learning for Class 5–12             │
+│  │   ▸ 50+ REST APIs · 40+ React components · 4 apps deployed      │
+│  │                                                                  │
+│  🔵 Earlier ──────────────────────────────────────────────────────  │
+│  │   AI Integration Specialist (Project-based)                     │
+│  │   ▸ Integrated LLM APIs, Deepgram STT/TTS into production apps  │
+│  │   ▸ Implemented Vector DB & semantic search pipelines           │
+│  │   ▸ Reduced API response time: 800ms → 450ms                    │
+│  │   ▸ Improved DB query performance by 35%                        │
+│  │                                                                  │
+│  🟢 Foundation ────────────────────────────────────────────────────  │
+│      Frontend & Web Development                                     │
+│      ▸ React clones: Zomato, Netflix — production-quality UI        │
+│      ▸ Vanilla JS apps: Weather, Expense Tracker, To-Do, Games     │
+│      ▸ Portfolio deployed on GitHub Pages                           │
+│      ▸ E-Commerce microservices with event-driven architecture      │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -282,6 +361,36 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Sharma-9804&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
+## 🧩 DSA & Competitive Programming
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Akash-Sharma-9804?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+
+<br/><br/>
+
+| Platform | Handle / Status | Highlights |
+|:---:|:---:|:---:|
+| 🧩 **LeetCode** | Active | Problem Solving & DSA Practice |
+| 🤖 **HackerRank** | Active | Problem Solving |
+| ⚙️ **Coding Ninjas** | Active | DSA & Development Tracks |
+
+<br/>
+
+> 💡 *Consistent problem solver — focused on algorithms, data structures & system thinking.*
+
 </div>
 
 ---
