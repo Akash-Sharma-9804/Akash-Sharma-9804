@@ -130,35 +130,6 @@
 
 ---
 
-## 💼 Experience Timeline
-
-<div align="center">
-
-| | |
-|:---:|:---|
-| 🟣 **Now** | **Full Stack Developer @ QuantumHash Corporation** |
-| | 🧠 Built **QhashAI** — AI conversational platform · 5,000+ queries |
-| | 🎤 Built **OfficeMoM** — AI meeting automation · 90% transcription accuracy |
-| | 📝 Built **ASES** — AI assessment system · LLM-powered question generation |
-| | 🎓 Built **QuantumEdu** — AI e-learning for Class 5–12 |
-| | ⚡ 50+ REST APIs · 40+ React components · 4 production apps deployed |
-| | |
-| 🔵 **Earlier** | **AI Integration Specialist** *(Project-based)* |
-| | 🔗 Integrated LLM APIs & Deepgram STT/TTS into production systems |
-| | 🗄️ Implemented Vector DB & semantic search pipelines |
-| | ⚡ Reduced API response time **800ms → 450ms** |
-| | 📊 Improved DB query performance by **35%** |
-| | |
-| 🟢 **Foundation** | **Frontend & Web Development** |
-| | ⚛️ React clones: Zomato, Netflix — production-quality UI |
-| | 🌐 Vanilla JS apps: Weather, Expense Tracker, To-Do, Games |
-| | 🛒 E-Commerce microservices with event-driven architecture |
-| | 🌍 Portfolio deployed live on GitHub Pages |
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered Applications
@@ -366,36 +337,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Sharma-9804&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
-
----
-
-## 🧩 DSA & Competitive Programming
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Akash-Sharma-9804?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-
-<br/><br/>
-
-| Platform | Handle / Status | Highlights |
-|:---:|:---:|:---:|
-| 🧩 **LeetCode** | Active | Problem Solving & DSA Practice |
-| 🤖 **HackerRank** | Active | Problem Solving |
-| ⚙️ **Coding Ninjas** | Active | DSA & Development Tracks |
-
-<br/>
-
-> 💡 *Consistent problem solver — focused on algorithms, data structures & system thinking.*
-
 </div>
 
 ---
