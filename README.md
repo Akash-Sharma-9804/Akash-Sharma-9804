@@ -27,50 +27,64 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```typescript
-const akash: Developer = {
-  name          : "Akash Sharma",
-  location      : "West Bengal, India",
-  email         : "akashsharma9804@gmail.com",
-  portfolio     : "https://akash-sharma-9804.github.io",
+<div align="center">
 
-  currentRole   : "Full Stack Developer & AI Integration Specialist",
+<!-- Mac Terminal -->
+<table style="border-radius:12px; overflow:hidden; border: none;" cellpadding="0" cellspacing="0">
+<tr>
+<td style="background:#1e1e1e; border-radius:12px; padding:0; border:none;">
 
-  expertise     : [
-    "Full Stack Web Development (MERN)",
-    "AI & LLM Integration",
-    "Vector Databases & Semantic Search",
-    "Real-time Systems & Scalable Architecture",
-    "RESTful API Design",
-  ],
+<!-- Title bar -->
+<div style="background:#2d2d2d; padding:10px 16px; border-radius:12px 12px 0 0; display:flex; align-items:center; gap:8px;">
+  <span style="width:12px;height:12px;border-radius:50%;background:#ff5f57;display:inline-block;"></span>
+  <span style="width:12px;height:12px;border-radius:50%;background:#ffbd2e;display:inline-block;"></span>
+  <span style="width:12px;height:12px;border-radius:50%;background:#28c840;display:inline-block;"></span>
+  &nbsp;&nbsp;<span style="color:#aaa;font-size:13px;font-family:monospace;">akash@portfolio ~ </span>
+</div>
 
-  techStack     : {
-    frontend  : ["React.js", "JavaScript ES6+", "HTML5", "CSS3", "Tailwind CSS"],
-    backend   : ["Node.js", "Express.js", "REST API"],
-    databases : ["MySQL", "MongoDB", "Vector DB"],
-    ai        : ["LLM APIs", "Deepgram STT/TTS", "Vector Embeddings", "RAG Pipelines"],
-    tools     : ["Git", "GitHub", "PM2", "VPS", "Postman"],
-  },
-
-  currentlyExploring : [
-    "RAG Pipelines",
-    "Pinecone / Weaviate / pgvector",
-    "AWS & Docker",
-    "Microservices Architecture",
-    "JWT / OAuth2 / RBAC",
-  ],
-
-  impact        : {
-    apiEndpointsBuilt   : "50+",
-    reactComponents     : "40+",
-    aiRequestsHandled   : "10,000+",
-    productionUsers     : "1,000+",
-    lighthouseScore     : "90+",
-  },
-
-  funFact : "I optimize APIs before I optimize my sleep schedule",
-};
+```bash
+┌─────────────────────────────────────────────────────────────┐
+│  🍎  akash@portfolio ~ — zsh                                │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  $ whoami                                                   │
+│  > Akash Sharma — Full Stack Developer & AI Specialist      │
+│                                                             │
+│  $ cat info.json                                            │
+│  {                                                          │
+│    "location"    : "West Bengal, India 🇮🇳",               │
+│    "role"        : "Full Stack Developer",                  │
+│    "company"     : "QuantumHash Corporation",               │
+│    "email"       : "akashsharma9804@gmail.com",             │
+│    "portfolio"   : "akash-sharma-9804.github.io"            │
+│  }                                                          │
+│                                                             │
+│  $ cat expertise.txt                                        │
+│  ▸ Full Stack Web Development (MERN)                        │
+│  ▸ AI & LLM Integration                                     │
+│  ▸ Vector Databases & Semantic Search                       │
+│  ▸ Real-time & Scalable Architecture                        │
+│  ▸ RESTful API Design                                       │
+│                                                             │
+│  $ cat impact.log                                           │
+│  ✅  50+     REST API endpoints built                       │
+│  ✅  40+     Reusable React components                      │
+│  ✅  10,000+ AI-driven requests handled                     │
+│  ✅  1,000+  Users across production apps                   │
+│  ✅  90+     Lighthouse score achieved                      │
+│                                                             │
+│  $ cat fun_fact.txt                                         │
+│  "I optimize APIs before I optimize my sleep schedule" 😄   │
+│                                                             │
+│  $ _                                                        │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -120,35 +134,26 @@ const akash: Developer = {
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                        EXPERIENCE JOURNEY                           │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  🟣 Present ──────────────────────────────────────────────────────  │
-│  │   Full Stack Developer @ QuantumHash Corporation                │
-│  │   ▸ Built QhashAI — AI conversational platform (5,000+ queries) │
-│  │   ▸ Built OfficeMoM — AI meeting automation (90% accuracy)      │
-│  │   ▸ Built ASES — AI assessment system (scalable, LLM-powered)   │
-│  │   ▸ Built QuantumEdu — AI e-learning for Class 5–12             │
-│  │   ▸ 50+ REST APIs · 40+ React components · 4 apps deployed      │
-│  │                                                                  │
-│  🔵 Earlier ──────────────────────────────────────────────────────  │
-│  │   AI Integration Specialist (Project-based)                     │
-│  │   ▸ Integrated LLM APIs, Deepgram STT/TTS into production apps  │
-│  │   ▸ Implemented Vector DB & semantic search pipelines           │
-│  │   ▸ Reduced API response time: 800ms → 450ms                    │
-│  │   ▸ Improved DB query performance by 35%                        │
-│  │                                                                  │
-│  🟢 Foundation ────────────────────────────────────────────────────  │
-│      Frontend & Web Development                                     │
-│      ▸ React clones: Zomato, Netflix — production-quality UI        │
-│      ▸ Vanilla JS apps: Weather, Expense Tracker, To-Do, Games     │
-│      ▸ Portfolio deployed on GitHub Pages                           │
-│      ▸ E-Commerce microservices with event-driven architecture      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+| | |
+|:---:|:---|
+| 🟣 **Now** | **Full Stack Developer @ QuantumHash Corporation** |
+| | 🧠 Built **QhashAI** — AI conversational platform · 5,000+ queries |
+| | 🎤 Built **OfficeMoM** — AI meeting automation · 90% transcription accuracy |
+| | 📝 Built **ASES** — AI assessment system · LLM-powered question generation |
+| | 🎓 Built **QuantumEdu** — AI e-learning for Class 5–12 |
+| | ⚡ 50+ REST APIs · 40+ React components · 4 production apps deployed |
+| | |
+| 🔵 **Earlier** | **AI Integration Specialist** *(Project-based)* |
+| | 🔗 Integrated LLM APIs & Deepgram STT/TTS into production systems |
+| | 🗄️ Implemented Vector DB & semantic search pipelines |
+| | ⚡ Reduced API response time **800ms → 450ms** |
+| | 📊 Improved DB query performance by **35%** |
+| | |
+| 🟢 **Foundation** | **Frontend & Web Development** |
+| | ⚛️ React clones: Zomato, Netflix — production-quality UI |
+| | 🌐 Vanilla JS apps: Weather, Expense Tracker, To-Do, Games |
+| | 🛒 E-Commerce microservices with event-driven architecture |
+| | 🌍 Portfolio deployed live on GitHub Pages |
 
 </div>
 
